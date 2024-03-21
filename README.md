@@ -51,9 +51,9 @@ Diffusion models have been chosen for their superior performance in image genera
     - Assessed pipeline creativity and efficiency in terms of resource utilization and computational complexity.
     - Requires substantial resources but delivers desired results.
 3. **Results**: 
-    - Prompt: "A cow smiling with sunglasses"
+    - Prompt: "Middle-Aged Gentleman Standing on a Luxurious Yacht"
     
-    ![Generated Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1f38739e-e1ca-485f-b9fe-c7ec6af5cf19/68dcff91-5962-4d0e-9405-2022393a43c4/Untitled.png)
+    ![Generated Image](https://raw.githubusercontent.com/himanshushukla12/text-to-image-stableDiffusioin/main/Middle-Aged%20Gentleman%20Standing%20on%20a%20Luxurious%20Yacht.png)
 
 **Conclusion:**
 
